@@ -4,7 +4,9 @@ body{
 h1{
    color:gold;
 }
-h2{colr:gold;
+h2{colOr:gold;
+}
+p{color:white;
 }
 p{font-weight:200;
 }
