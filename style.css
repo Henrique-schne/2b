@@ -2,9 +2,10 @@ body{
    background-color: black;
    text-align:center;
 }
-h1{
-   color:gold;
+h1{font-size:120%
 }
+   h1{color:gold;
+   }
 h2{colOr:gold;
 }
 p{color:white;
