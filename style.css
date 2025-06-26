@@ -6,6 +6,8 @@ h1{font-size:larger;
 }
    h1{color:gold;
    }
+ h2{font-size:larger;
+}  
 h2{colOr:gold;
 }
 p{color:white;
@@ -15,9 +17,9 @@ li{color:white;
 p{font-weight:200;
 }
 h1{font-size: large;
-font-style:itali;
+font-style:italic;
 }
-.imagens.jpeg{wided:40%;
+.imagens.jpeg{width:40%;
 }
 .explicação {
    color:yellow
