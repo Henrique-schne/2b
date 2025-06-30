@@ -16,10 +16,14 @@ li{color:white;
 }
 p{font-weight:200;
 }
+h3{color:gold;
+}
+h3{font-size:larger;
+}
 h1{font-size: large;
 font-style:italic;
 }
-.imagens.jpeg{width:40%;
+.imagens.jpeg{width:50%;
 }
 .explicação {
    color:yellow
