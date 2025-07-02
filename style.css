@@ -2,13 +2,12 @@ body{
    background-color: black;
    text-align:center;
 }
-h1{font-size:larger;
-}
-   h1{color:gold;
-   }
+h1{font-size: larger;
+   color:gold;
+   font: weiht 200px;
+ }
  h2{font-size:larger;
-}  
-h2{colOr:gold;
+   colOr:gold;
 }
 p{color:white;
 }
@@ -17,8 +16,8 @@ li{color:white;
 p{font-weight:200;
 }
 h3{color:gold;
-}
-h3{font-size:larger;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: 100
 }
 h4{color:gold;
 }
